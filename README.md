@@ -1,2 +1,2 @@
 # FizzBuzz
-Ejercicio de programación para conseguir trabajo en programación
+Ejercicio de programación para conseguir trabajo
